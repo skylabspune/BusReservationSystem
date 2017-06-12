@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\windows\Desktop\scrap_ folder\BRS_v9\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3011301286.index
+2385527929.index
+1998961937.index
+2997140729.index
+2058142803.index
